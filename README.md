@@ -3,11 +3,13 @@ vb-maven
 
 Maven repo for my projets host on github.
 
-For more informations about the archives uploaded here, please visite :
+Informations about the archives uploaded here :
 
  * [vb-android-library-cache](https://github.com/vincentbrison/vb-android-library-cache)
+ * [A fork of swipelistview](https://github.com/47deg/android-swipelistview). This fork is used to develop several fixes which will be progressively
+ ask as pull request into the main project.
  
- License
+License
 =======
 
     Copyright 2013 Vincent Brison.
