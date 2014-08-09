@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.vb.openlibraries.android.dualcache.lib</groupId>
+  <artifactId>dualcache</artifactId>
+  <version>0.0.13</version>
+  <versioning>
+    <versions>
+      <version>0.0.13</version>
+      <version>0.0.14</version>
+    </versions>
+    <lastUpdated>20140809155357</lastUpdated>
+  </versioning>
+</metadata>
